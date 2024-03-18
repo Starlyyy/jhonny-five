@@ -1,0 +1,19 @@
+.contatos img{
+
+    height: 40px;
+    
+}
+
+.contatos {
+
+    list-style: none;
+    
+}
+
+.contatos li{
+
+    background-color: yellow; /* apenas para efeitos visuais */
+    list-style-type: none;
+    margin-left: -4px;
+
+}
