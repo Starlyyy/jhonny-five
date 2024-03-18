@@ -1,6 +1,6 @@
 .contatos img{
 
-    height: 40px;
+    height: 30px;
     
 }
 
@@ -10,10 +10,39 @@
     
 }
 
-.contatos li{
+body {
 
-    background-color: yellow; /* apenas para efeitos visuais */
-    list-style-type: none;
-    margin-left: -4px;
+    width: 60%;
+    margin: auto;
+    padding: 2%0;
+    background-color: #B5C0D0;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: #444;
+    line-height: 1,5;
+    
+
+}
+
+main {
+
+    background: white;
+    padding: 5%;
+    border: solid 1px gray;
+
+}
+
+h1 {
+    color: rgb(140, 76, 8);
+}
+
+h2 {
+    color: rgb(140, 76, 8);
+}
+
+section {
+
+    margin-top: 0px;
+    padding-bottom: 5px;
+    border-top: solid 1px gray;
 
 }
